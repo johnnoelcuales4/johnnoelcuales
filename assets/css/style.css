@@ -215,6 +215,9 @@ section {
 /* END REVIEWS */
 
 /* FOOTER */
+#faq{
+    background-color: #00eeff;
+}
 .footer_section {
     background-color: #032633d3;
     color: #e7671280;
