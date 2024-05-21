@@ -229,7 +229,7 @@ section {
     margin: 0;
   }
   .footer_section .footer-info p a {
-    color: inherit;
+    color: #0aaae4;
     text-decoration: none;
   }
   .faq-section {
@@ -276,7 +276,7 @@ section {
 
   /* Hover effect for FAQ questions */
   .faq-question:hover {
-    background-color: var(--brand); /* Change background color on hover */
+    background-color: #40d67f; /* Change background color on hover */
     color: #ff730081; /* Change text color on hover */
   }
 
