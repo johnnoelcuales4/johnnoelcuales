@@ -216,7 +216,7 @@ section {
 
 /* FOOTER */
 .footer_section {
-    background-color: #414c50;
+    background-color: #0aaae4;
     color: #ffffff;
     text-align: center;
   }
@@ -243,14 +243,14 @@ section {
   }
 
   .faq-question {
-    background-color: #f8f9fa;
+    background-color: #a3f707bb;
     border: none;
-    border-bottom: 1px solid #dee2e6;
+    border-bottom: 1px solid #2572c050;
     border-radius: 0;
     padding: 15px;
     font-size: 18px;
     font-weight: 500;
-    color: #343a40;
+    color: #06e65cbb;
     cursor: pointer;
     transition: background-color 0.3s, color 0.3s; /* Add transition for smooth hover effect */
   }
