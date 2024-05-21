@@ -217,7 +217,7 @@ section {
 /* FOOTER */
 .footer_section {
     background-color: #0aaae4;
-    color: #ffffff;
+    color: #7a370980;
     text-align: center;
   }
  
@@ -225,7 +225,7 @@ section {
     text-align: center;
   }
   .footer_section .footer-info p {
-    color: #ffffff;
+    color: #d6c101;
     margin: 0;
   }
   .footer_section .footer-info p a {
@@ -243,14 +243,14 @@ section {
   }
 
   .faq-question {
-    background-color: #a3f707bb;
+    background-color: #f78707bb;
     border: none;
-    border-bottom: 1px solid #2572c050;
+    border-bottom: 1px solid #25c0b3da;
     border-radius: 0;
     padding: 15px;
     font-size: 18px;
     font-weight: 500;
-    color: #06e65cbb;
+    color: #e66006bb;
     cursor: pointer;
     transition: background-color 0.3s, color 0.3s; /* Add transition for smooth hover effect */
   }
@@ -259,7 +259,7 @@ section {
     border-left: 3px solid var(--brand);
     padding: 10px 15px;
     margin-left: 0;
-    background-color: #f8f9fa;
+    background-color: #d8970c96;
   }
 
   .faq-answer p {
@@ -301,7 +301,7 @@ section {
 }
 
 #footer ul.list-unstyled li a {
-    color: #ffffff;
+    color: #ee0606;
 }
 
 #footer ul.list-unstyled li:hover a {
